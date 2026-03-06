@@ -1,0 +1,1 @@
+I am learning Node.js because I want to improve my backend developement skills. As an IT professional, understanding server-side JavaScript will help me build scalable applications and modern web services.
